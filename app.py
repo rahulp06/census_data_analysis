@@ -8,6 +8,17 @@ st.set_page_config(layout="wide")
 st.title("📊 Complete Census Data Analysis Dashboard")
 st.markdown("Upload the `census.csv` file to generate a full suite of demographic, income, and projection reports.")
 
+# --- TEAM SECTION ---
+st.markdown("### 🧑‍💻 Project Developed By:")
+st.markdown("**Sania Jasmine**")
+st.markdown("**Sameera**")
+st.markdown("**Anusha**")
+st.markdown("**Neeraja**")
+st.markdown("**Likitha**")
+st.markdown("**P Rahul**")
+st.markdown("---")
+# --- END TEAM SECTION ---
+
 # --- Constants ---
 CITIZEN_STATUS = 'NativeBornintheUnitedStates'
 
